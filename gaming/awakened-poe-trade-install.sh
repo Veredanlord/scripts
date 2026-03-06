@@ -1,6 +1,6 @@
 #!/bin/bash
 
-BASE=$HOME/Software/gaming
+BASE=$HOME/Software/gaming # Where you want it installed
 REPO=$BASE/awakened-poe-trade
 
 cd "$BASE"
